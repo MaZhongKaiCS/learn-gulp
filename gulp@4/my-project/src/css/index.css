@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    background: orange;
+    transition: all 1s linear;
+}
+p{
+    display: flex;
+}
